@@ -10,7 +10,7 @@
 - 🎓 &nbsp; Studying Computer Science and Engineering at MSIT, Delhi.
 - 💼 &nbsp; Upcoming MITACS Globalink Research Internship scholar at the University of Guelph in Summer of 2022.
 - 🌱 &nbsp; Learning more about Machine Learning and Data Science.
-<!-- - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles. -->
+- ✍️ &nbsp; Product Intern at Adobe, working under Cloud Technology.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
