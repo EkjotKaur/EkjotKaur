@@ -10,7 +10,7 @@
 - 🎓 &nbsp; Studying Computer Science and Engineering at MSIT, Delhi.
 - ✍️ &nbsp; Ex-Product Intern at Adobe & Ex-MITACS Globalink Research Internship scholar at the University of Guelph in Summer of 2022.
 - 💼 &nbsp; Incoming MTS at Adobe
-- 🌱 &nbsp; Learning more about Machine Learning and Data Science.
+- 🌱 &nbsp; Learning more about Software Development Techniques
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
